@@ -1,0 +1,13 @@
+Start Screen:
+Snow at the start when they open it with the moving road in the backgroound.
+
+Space shooter will try to implemenmt coolest from fodler, the blue in particular.
+It will have radars and some cool fuctionality.
+
+This is everything you need for:
+A. The warp drive. (Change as much as you can and implement cool things).
+B. Stars in system moving, add ability to move left and rright, look at start of yasc
+
+https://www.youtube.com/watch?v=17WoOqgXsRM
+
+Yasc will have on how to move left and right (maybe?)
